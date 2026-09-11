@@ -1,7 +1,7 @@
 RFC 0001: RetV — Reactive Toolforming Voyager Agent
-Status: Working Proposal
+Status: v1.0.0
 Author: Khalil Warren
-Intended Status: Production Release
+Intended Status: Maintenance
 
 1. Abstract
 
